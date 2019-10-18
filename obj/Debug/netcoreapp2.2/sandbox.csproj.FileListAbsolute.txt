@@ -1,0 +1,11 @@
+C:\Users\simon\OneDrive\Skrivbord\sandbox\bin\Debug\netcoreapp2.2\sandbox.deps.json
+C:\Users\simon\OneDrive\Skrivbord\sandbox\bin\Debug\netcoreapp2.2\sandbox.runtimeconfig.json
+C:\Users\simon\OneDrive\Skrivbord\sandbox\bin\Debug\netcoreapp2.2\sandbox.runtimeconfig.dev.json
+C:\Users\simon\OneDrive\Skrivbord\sandbox\bin\Debug\netcoreapp2.2\sandbox.dll
+C:\Users\simon\OneDrive\Skrivbord\sandbox\bin\Debug\netcoreapp2.2\sandbox.pdb
+C:\Users\simon\OneDrive\Skrivbord\sandbox\obj\Debug\netcoreapp2.2\sandbox.csprojAssemblyReference.cache
+C:\Users\simon\OneDrive\Skrivbord\sandbox\obj\Debug\netcoreapp2.2\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Skrivbord\sandbox\obj\Debug\netcoreapp2.2\sandbox.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\Skrivbord\sandbox\obj\Debug\netcoreapp2.2\sandbox.AssemblyInfo.cs
+C:\Users\simon\OneDrive\Skrivbord\sandbox\obj\Debug\netcoreapp2.2\sandbox.dll
+C:\Users\simon\OneDrive\Skrivbord\sandbox\obj\Debug\netcoreapp2.2\sandbox.pdb
